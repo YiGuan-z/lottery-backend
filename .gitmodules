@@ -1,0 +1,3 @@
+[submodule "lottery-web"]
+	path = lottery-web
+	url = https://github.com/YiGuan-z/lottery-web.git
